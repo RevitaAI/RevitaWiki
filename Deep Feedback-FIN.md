@@ -1,4 +1,3 @@
-[[_TOC_]]
 
 # FEATURE HIERARCHY for FINNISH: for exercise feedback
 
